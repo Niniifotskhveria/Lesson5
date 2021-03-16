@@ -1,0 +1,81 @@
+/*satauri*/
+.h5{
+	margin:82px 1111px 1px 0px;
+	width:92px;
+	height: 20px;
+	color: #5863F8
+}
+
+
+.prgph{
+	font-size: 42px;
+	font-family: 'Poppins', sans-serif;
+	width: 498px;
+	height: 115px;
+	margin:0 705px 0 0;
+/*leftblock styles*/
+}
+.container{
+ 	width: 1088px;
+ 	height: 190px;
+ 	margin-right: auto;
+ 	margin-left: auto;
+}
+.container1{
+	width: 1088px;
+	height: 190px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.right-block{
+	float: left;
+	width: 536px; 
+	height: 190px;
+	vertical-align: top;
+	background-color: #F8F8F8
+
+
+
+}
+.left-block{
+	float: left;
+	width: 536px; 
+	height: 190px;
+	margin-left: 16px;
+	vertical-align: top;
+	background-color: #F8F8F8
+	
+}
+.description{
+	float: left;
+	margin-left: 16px;
+	margin-top: 37px;
+}
+.fish{
+	float: left;
+}
+
+.title{
+	width: 260px;
+	font-size: 14px;
+	padding-top:10px;
+	padding-right: 92px;
+	color: #B1B1B1
+}
+.text1{
+	font-family: 'Poppins', sans-serif;
+	color: #5863F8
+}
+.clear{
+	clear: both;
+}
+.section2{
+	margin-top: 16px;
+}
+
+
+
+
+
