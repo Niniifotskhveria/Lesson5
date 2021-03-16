@@ -74,8 +74,58 @@
 .section2{
 	margin-top: 16px;
 }
+.fish2{
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.title1{
+	margin:46px 125px 5px;
+	color: #5863F8
+	
+}
+.title2{
+	margin:0 63px 10px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.prgph1{
+	width: 210px;
+	height: 42px;
+	text-indent:7px;
+	margin:0 26px 0 66px;
+	font-size: 14px;
+	color: #B1B1B1
+}
+.test{
+	float: left;
+	width:352px;
+	height: 148px;
+	margin-right: 14px;
+	background-color: #F8F8F8
+
+}
+.test1{
+	float: left;
+	width:352px;
+	height: 148px;
+	background-color: #F8F8F8
+
+}
+.test2{
+	float: left;
+	width:352px;
+	height: 148px;
+	margin-left: 14px;
+	background-color: #F8F8F8
+}
+.active1{
+	float: left;
+	width:352px;
+	height: 148px;
+	margin-right: 14px;
+	background-color: #F8F8F8
 
 
-
-
-
+}
+}
